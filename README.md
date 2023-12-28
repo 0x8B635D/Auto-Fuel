@@ -1,9 +1,9 @@
 Just stick fuel in the tool cupboard where it can reach, and the stuff that needs fuel (like lights and furnaces) will grab what they need from the tool cupboard when they want it. Remember the right type of fuel for each thing and make sure the tool cupboard always has some!
 
-Permissions
-autofuel.use => Allows player to be affected by this plugin.
-Configuration
-{
+# Permissions
+* `autofuel.use` => Allows player to be affected by this plugin.
+# Configuration
+```{
   "Allowed Entities": [
     "bbq.deployed",
     "campfire",
@@ -29,3 +29,4 @@ Configuration
   "Check entity owner for permission": false,
   "Anyone on tool cupboard has permission": true
 }
+```
