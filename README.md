@@ -3,7 +3,8 @@ Just stick fuel in the tool cupboard where it can reach, and the stuff that need
 # Permissions
 * `autofuel.use` => Allows player to be affected by this plugin.
 # Configuration
-```{
+```ruby
+{
   "Allowed Entities": [
     "bbq.deployed",
     "campfire",
@@ -30,3 +31,8 @@ Just stick fuel in the tool cupboard where it can reach, and the stuff that need
   "Anyone on tool cupboard has permission": true
 }
 ```
+# Credits
+* **rising_ace,** for the original idea via reddit
+* **Retributive Law,** for helping with the testing (of 1.* versions)
+* **redBDGR,** original author of the 1.* versions of this plugin.
+* **0x89A,** version taken from to generate this edited version.
